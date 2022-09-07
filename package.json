@@ -1,8 +1,7 @@
 {
 	"private": true,
 	"appName": "Toa Hordika and The Mask Of Light",
-	"appNameShort": "Toa Hordika Animations",
-	"appNameShorter": "Hordika Animations",
+	"appDmgTitle": "Toa Hordika Animations",
 	"appDomain": "io.github.projectbrick.ToaHordikaAndTheMaskOfLight",
 	"version": "1.0.0",
 	"author": "Project Brick",
