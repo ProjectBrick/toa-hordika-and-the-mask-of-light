@@ -1,4 +1,4 @@
-# Toa Hordika and The Mask Of Light -- README
+# Toa Hordika and The Mask Of Light – README
 
 The Toa Hordika must retrieve the Great Kanohi Mask of Light, to keep it out of the hands of the merciless queen Roodaka and the Visorak horde. Someday, this mask may be the only thing that can hold back the force of darkness! But can the Toa Hordika find it before the Visorak do?
 
