@@ -45,7 +45,7 @@ async function * resources() {
 
 function projected(delay) {
 	const swfv = 6;
-	const [w, h] = [480, 420];
+	const [w, h] = [480, 422];
 	const fps = 25;
 	const bg = 0x000000;
 	const url = 'toahordikaandthemaskoflight.swf';

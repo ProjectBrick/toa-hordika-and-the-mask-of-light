@@ -2,7 +2,7 @@
 	filename="toahordikaandthemaskoflight.swf"
 	version=6
 	fps=25
-	bbox=480x420
+	bbox=480x422
 	background=#000000
 	compress
 
